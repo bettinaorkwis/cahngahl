@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://vuelimovae.vrchina.fun/sitemap.xml
